@@ -1,2 +1,2 @@
-# AI-Practitioner---Talent-Transformation-Week
+# AI-Practitioner_Talent_Transformation_Week
 AI Practitioner - Talent Transformation Week
